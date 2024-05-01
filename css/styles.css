@@ -8,6 +8,7 @@
 body{
     background-color: #000622;
     overflow-x:hidden;
+    text-decoration: none;
 }
 .title{
     text-align: center;
