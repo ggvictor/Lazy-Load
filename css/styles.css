@@ -21,6 +21,7 @@ body{
 .container{
     width: 70vw;
     margin: 0 auto;
+    overflow-x:hidden;
 }
 .image-container{
     padding-bottom: 1rem;
